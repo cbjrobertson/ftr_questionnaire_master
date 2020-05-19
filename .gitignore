@@ -112,8 +112,8 @@ venv.bak/
 #files from the writing process and irrelevant files
 old/
 writing_process/
-ftr_questions/example.xlsx
-ftr_questions/long_example.xlsx
+ftr_questionnaire/example.xlsx
+ftr_questionnaire/long_example.xlsx
 code/mark_questions.xlsx
 code/questions_check.py
 demography_text_maps.xlsx
