@@ -1,8 +1,12 @@
 [[AdvancedFormat]]
-[[Block: FTR_question_block_english]]
+[[Block: syntax_block_english]]
 [[Question:TE:SingleLine]]
 [[ID:uneek_1059]]
 <strong>CONTEXT:</strong><br />Q: You want to see a film tonight? A: Sorry, I can't...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% decided<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -27,6 +31,10 @@ A: I {DINE OUT} with John.<br />
 <strong>CONTEXT:</strong><br />Q: What you {DO} tonight? A: Hmmm… <br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% decided<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...I {DINE OUT} with Christine.<br />
 <br />
@@ -36,6 +44,10 @@ A: I {DINE OUT} with John.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1060]]
 <strong>CONTEXT:</strong><br />Q: What do you think about the football this evening?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -60,6 +72,10 @@ A: Manchester {LOSE}.<br />
 <strong>CONTEXT:</strong><br />Q: What do you think about the match tonight? A: It {BE}  hard to say…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …Arsenal {LOSE}.<br />
 <br />
@@ -69,6 +85,10 @@ A: Manchester {LOSE}.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1061]]
 <strong>CONTEXT:</strong><br />Q: Should I being my sun hat to the beach? A: Yes...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -93,6 +113,10 @@ A: Manchester {LOSE}.<br />
 <strong>CONTEXT:</strong><br />Q: Should I bring and extra warm jacket? A: It be your decision...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...it {SNOW} this afternoon.<br />
 <br />
@@ -102,6 +126,10 @@ A: Manchester {LOSE}.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1062]]
 <strong>CONTEXT:</strong><br />Speaking to a friend who fancies Annie: You should come to the movie tonight...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -126,6 +154,10 @@ A: Manchester {LOSE}.<br />
 <strong>CONTEXT:</strong><br />Speaking to a friend who fancies John: You should come to the dinner tonight...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …John {BE} there.<br />
 <br />
@@ -135,6 +167,10 @@ A: Manchester {LOSE}.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1063]]
 <strong>CONTEXT:</strong><br />Q: When {BE} the exam tonight? A: They have been the same all week…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -159,6 +195,10 @@ A: It {BE} at 7pm.<br />
 <strong>CONTEXT:</strong><br />Q: When {BE} the exam tonight? A: I have to check the class portal, but…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...it {BE} at 7pm.<br />
 <br />
@@ -168,6 +208,10 @@ A: It {BE} at 7pm.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1064]]
 <strong>CONTEXT:</strong><br />Q: What you {DO} tomorrow evening? A: The new James Bond film {BE} playing...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% decided<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -192,6 +236,10 @@ A: It {BE} at 7pm.<br />
 <strong>CONTEXT:</strong><br />Q: What you {DO} tomorrow? A: Imagine Dragons {PLAY} tomorrow. They are not bad, but the tickets {BE} expensive...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% decided<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...I {SEE} them with Tom.<br />
 <br />
@@ -201,6 +249,10 @@ A: It {BE} at 7pm.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1065]]
 <strong>CONTEXT:</strong><br />It's no use skiing tomorrow...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -225,6 +277,10 @@ A: It {BE} at 7pm.<br />
 <strong>CONTEXT:</strong><br />I have some doubts about {TRYING} to sail tomorrow...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …the wind {BE} too high.<br />
 <br />
@@ -234,6 +290,10 @@ A: It {BE} at 7pm.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1066]]
 <strong>CONTEXT:</strong><br />Q: What your dad {DO} if you don't go to see him tomorrow, do you think?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -258,6 +318,10 @@ A: He {CALL} me.<br />
 <strong>CONTEXT:</strong><br />Q: What your sister {DO} if you don't go to see her later, do you think?<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 A: She {CALL} me.<br />
 <br />
@@ -267,6 +331,10 @@ A: She {CALL} me.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1067]]
 <strong>CONTEXT:</strong><br />Q: Do you think the exam tomorrow {BE} difficult? A: Professor Green is easy…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -291,6 +359,10 @@ A: We {PASS}.<br />
 <strong>CONTEXT:</strong><br />Q: Do you think the exam tomorrow will be hard? A: We've been studying, but I never know with Professor Johnson…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ..we {PASS}.<br />
 <br />
@@ -300,6 +372,10 @@ A: We {PASS}.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1068]]
 <strong>CONTEXT:</strong><br />Q: Do you konw when the sun {RISE} tomorrow?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -324,6 +400,10 @@ A: The sun {RISE} at 6.<br />
 <strong>CONTEXT:</strong><br />Q: Do you know when the moon {RISE} tomorrow night?<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 A: It {RISE} at 17:00.<br />
 <br />
@@ -333,6 +413,10 @@ A: It {RISE} at 17:00.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1069]]
 <strong>CONTEXT:</strong><br />Q: When does your mother-in-law arrive? A: Ug. She buys the kids too many toys, like always. I can't stand it...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% decided<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -357,6 +441,10 @@ A: It {RISE} at 17:00.<br />
 <strong>CONTEXT:</strong><br />Q: When does your father arrive? A: Ug. He always buys the kids too much junk food. But they {LOVE} him so much...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% decided<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...I {SAY} no this time.<br />
 <br />
@@ -366,6 +454,10 @@ A: It {RISE} at 17:00.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1070]]
 <strong>CONTEXT:</strong><br />Q: Do you know what the weather {BE} like next week? A: A big storm {BE} coming…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -390,6 +482,10 @@ A: It {RAIN}.<br />
 <strong>CONTEXT:</strong><br />Q: Do you know what the weather {BE} like next week?<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 A:  It {BE} sunny.<br />
 <br />
@@ -399,6 +495,10 @@ A:  It {BE} sunny.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1071]]
 <strong>CONTEXT:</strong><br />A to B: Bring an umbrella to Germany next week...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -423,6 +523,10 @@ A:  It {BE} sunny.<br />
 <strong>CONTEXT:</strong><br />A to B: I would bring your bathing suit this weekend...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …the tempurature {HIT} 45 degrees.<br />
 <br />
@@ -432,6 +536,10 @@ A:  It {BE} sunny.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1072]]
 <strong>CONTEXT:</strong><br />A to B: We should definitely study the digestive system...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -456,6 +564,10 @@ A:  It {BE} sunny.<br />
 <strong>CONTEXT:</strong><br />A to B: Don't you think we should study the extra material...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …there {BE} a question on it.<br />
 <br />
@@ -465,6 +577,10 @@ A:  It {BE} sunny.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1073]]
 <strong>CONTEXT:</strong><br />Christine {SAY} yesterday that my brother {LEAVE) tomorrow, but...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -489,6 +605,10 @@ A:  It {BE} sunny.<br />
 <strong>CONTEXT:</strong><br />A to B : John {SAY} yesterday that Mary {LEAVE} in two weeks, but…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …her flight {LEAVE} next week.<br />
 <br />
@@ -498,6 +618,10 @@ A:  It {BE} sunny.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1074]]
 <strong>CONTEXT:</strong><br />Jen's uncle {SEND} her some money next month. She just loves skiing. When she gets it…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% decided<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -522,6 +646,10 @@ A:  It {BE} sunny.<br />
 <strong>CONTEXT:</strong><br />Chris's brother {SEND} him some money next month. You never know with him. When he gets it…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% decided<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...he {SPEND} it at the bar.<br />
 <br />
@@ -531,6 +659,10 @@ A:  It {BE} sunny.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1075]]
 <strong>CONTEXT:</strong><br />A to B: Don't invest in commodities. The market is very shaky...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -555,6 +687,10 @@ A:  It {BE} sunny.<br />
 <strong>CONTEXT:</strong><br />A to B: Don't invest in Latin America. Conditions are unstable…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...Brasil {CRASH} within a month.<br />
 <br />
@@ -564,6 +700,10 @@ A:  It {BE} sunny.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1076]]
 <strong>CONTEXT:</strong><br />Mother to daughter: Put your allowance in a savings account. Next month…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -588,6 +728,10 @@ A:  It {BE} sunny.<br />
 <strong>CONTEXT:</strong><br />Father to son: Don’t throw out that action figure. We {GO} to the comic convention next month…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 it {BE} worth something there.<br />
 <br />
@@ -597,6 +741,10 @@ it {BE} worth something there.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1077]]
 <strong>CONTEXT:</strong><br />Q: What is your opinion for oil futures next month?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -621,6 +769,10 @@ A: They {RISE}.<br />
 <strong>CONTEXT:</strong><br />Q: How do you expect the stock markets {BEHAVE} next month? A: It is unclear…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …they {RISE}.<br />
 <br />
@@ -630,6 +782,10 @@ A: They {RISE}.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1078]]
 <strong>CONTEXT:</strong><br />In June: Q: When do you and Jen fly to France? A: She {SAID} it {BE} the 17th, but I just {CHECK} the schedule...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -654,6 +810,10 @@ A: My flight {LEAVE} on 15 December!<br />
 <strong>CONTEXT:</strong><br />In February: Q: When do you fly to Spain? A: I have to check the ticket...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …my flight {LEAVE} 15 March.<br />
 <br />
@@ -663,6 +823,10 @@ A: My flight {LEAVE} on 15 December!<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1079]]
 <strong>CONTEXT:</strong><br />Q: Are you going on holiday this summer? A: Yes, in a couple of months. My boyfriend doesn't want to, but...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% decided<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -687,6 +851,10 @@ A: My flight {LEAVE} on 15 December!<br />
 <strong>CONTEXT:</strong><br />Q: Are you going on holiday this summer? A: I don't know. My annual review is in two months. After that…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% decided<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …I {TRAVEL} to Italy.<br />
 <br />
@@ -696,6 +864,10 @@ A: My flight {LEAVE} on 15 December!<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1080]]
 <strong>CONTEXT:</strong><br />Salesman to customer: I wouldn't buy for a couple of months. Next year's stock is arriving…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -720,6 +892,10 @@ A: My flight {LEAVE} on 15 December!<br />
 <strong>CONTEXT:</strong><br />Salesman to customer: I'd try coming back in a couple of months. People aren't buying too many...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...the price {DROP}.<br />
 <br />
@@ -729,6 +905,10 @@ A: My flight {LEAVE} on 15 December!<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1081]]
 <strong>CONTEXT:</strong><br />Doctor to panel: You can disregard eveything my ill-informed colleague just said. At current infection rates…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -753,6 +933,10 @@ A: My flight {LEAVE} on 15 December!<br />
 <strong>CONTEXT:</strong><br />Doctor to panel: We need  more research on the transmission vectors...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …the H1N1 virus {KILL} 10,000 people in the next two months.<br />
 <br />
@@ -762,6 +946,10 @@ A: My flight {LEAVE} on 15 December!<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1082]]
 <strong>CONTEXT:</strong><br />Teacher to parent: Peter just needs time to settle in. In a couple of months...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -786,6 +974,10 @@ A: My flight {LEAVE} on 15 December!<br />
 <strong>CONTEXT:</strong><br />Teacher to parent: Ellie worries me but I think she just needs some time to adjust. In a couple of months…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …she {IMPROVE}.<br />
 <br />
@@ -795,6 +987,10 @@ A: My flight {LEAVE} on 15 December!<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1083]]
 <strong>CONTEXT:</strong><br />Q: Are you excited for the Billie Eilish gig next week? A: What? I just checked online...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -819,6 +1015,10 @@ A: They {PLAY} in a couple months.<br />
 <strong>CONTEXT:</strong><br />Q: When is the Lady Gaga concert?<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 A: She {PLAY} in a couple of months.<br />
 <br />
@@ -828,6 +1028,10 @@ A: She {PLAY} in a couple of months.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1084]]
 <strong>CONTEXT:</strong><br />Boy: My birthday is in three months… are you coming to my party?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% decided<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -852,6 +1056,10 @@ Boy: I {BE} there.<br />
 <strong>CONTEXT:</strong><br />Boy: My birthday is in three months… are you coming to my party? Girl: I have to check with my parents…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% decided<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...I {COME}.<br />
 <br />
@@ -861,6 +1069,10 @@ Boy: I {BE} there.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1085]]
 <strong>CONTEXT:</strong><br />Doctor to patient: This is just stress. I see it all the time. Try to sleep well and get exercise. In a few months…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -885,6 +1097,10 @@ Boy: I {BE} there.<br />
 <strong>CONTEXT:</strong><br />Doctor to patient: These results concerning, but they can be caused by stress. Try to sleep and get some exercise. In a few months…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …you {FEEL} better.<br />
 <br />
@@ -894,6 +1110,10 @@ Boy: I {BE} there.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1086]]
 <strong>CONTEXT:</strong><br />A to B: The price of oil always goes up in the summer. Let's invest now...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -918,6 +1138,10 @@ Boy: I {BE} there.<br />
 <strong>CONTEXT:</strong><br />A to B: Gold usually goes up when markets are skittish. Don't worry...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 … we {START} to make money in a few months.<br />
 <br />
@@ -927,6 +1151,10 @@ Boy: I {BE} there.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1087]]
 <strong>CONTEXT:</strong><br />Weather presenter: There hasn't been such a sustained series of high pressure systems in years...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -951,6 +1179,10 @@ Boy: I {BE} there.<br />
 <strong>CONTEXT:</strong><br />Weather presenter: The broad outlook over the next few months is fairly unstable, but don't give up hope...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …we {SEE} sunny weather this summer.<br />
 <br />
@@ -960,6 +1192,10 @@ Boy: I {BE} there.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1088]]
 <strong>CONTEXT:</strong><br />Supervisor to student: So you defend next month?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -984,6 +1220,10 @@ A: My viva {BE} in three months!<br />
 <strong>CONTEXT:</strong><br />Student to supervisor: So when do I defend? Supervisor: Let me check…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …your viva {BE} in three months.<br />
 <br />
@@ -993,6 +1233,10 @@ A: My viva {BE} in three months!<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1089]]
 <strong>CONTEXT:</strong><br />In the spring, talking about a friend's plans: I don't know why you think otherwise! She told me yesterday she has {BOUGHT} her ticket...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% decided<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1017,6 +1261,10 @@ A: My viva {BE} in three months!<br />
 <strong>CONTEXT:</strong><br />In October, talking about a friend's plans: I do not think he is happy living here…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% decided<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...he {TRAVEL} in Mexico in the spring.<br />
 <br />
@@ -1026,6 +1274,10 @@ A: My viva {BE} in three months!<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1090]]
 <strong>CONTEXT:</strong><br />Talking about the winter's upcoming weather (it is presently June): There {BE} a cold current coming from the arctic this year…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1050,6 +1302,10 @@ A: My viva {BE} in three months!<br />
 <strong>CONTEXT:</strong><br />Talking about the winter's upcoming weather (it is presently June): I hear there {BE} a warm current coming up from the tropics…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …it {MAKE} this winter warm and wet.<br />
 <br />
@@ -1059,6 +1315,10 @@ A: My viva {BE} in three months!<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1091]]
 <strong>CONTEXT:</strong><br />Talking about elections in the spring (it is presently October): A: Don't waste a vote on Labour…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1083,6 +1343,10 @@ A: My viva {BE} in three months!<br />
 <strong>CONTEXT:</strong><br />Talking about upcoming elections (it is presently January) Q: What do you think will happen to the Tories?<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 A: They {LOSE} this summer.<br />
 <br />
@@ -1092,6 +1356,10 @@ A: They {LOSE} this summer.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1092]]
 <strong>CONTEXT:</strong><br />A to B: Don't bother investing in the China. There is a bubble...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1116,6 +1384,10 @@ A: They {LOSE} this summer.<br />
 <strong>CONTEXT:</strong><br />A to B: Are you sure about investing in Africa? The next six months {LOOK} unstable...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …it {CRASH}.<br />
 <br />
@@ -1125,6 +1397,10 @@ A: They {LOSE} this summer.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1093]]
 <strong>CONTEXT:</strong><br />Q: Are you sure about the lease?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1149,6 +1425,10 @@ A: Our lease {EXPIRE} in six months.<br />
 <strong>CONTEXT:</strong><br />Q: When do you move house? A: I need to check the documents…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …our lease {EXPIRE} in six months.<br />
 <br />
@@ -1158,6 +1438,10 @@ A: Our lease {EXPIRE} in six months.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1094]]
 <strong>CONTEXT:</strong><br />Q: Will you live in London next year?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% decided<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1182,6 +1466,10 @@ A: I {MOVE} to San Francisco.<br />
 <strong>CONTEXT:</strong><br />Q: Will you live here, next year? A: I don't know...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% decided<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...I {MOVE} to L.A..<br />
 <br />
@@ -1191,6 +1479,10 @@ A: I {MOVE} to San Francisco.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1095]]
 <strong>CONTEXT:</strong><br />Q: Do you think Amy and John still {BE} together in a year? A: I heard he proposed...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1215,6 +1507,10 @@ A: Yes, they {STAY} together.<br />
 <strong>CONTEXT:</strong><br />Q: Do you think Delia and Chris still {BE} together in a year? A: I don't know. They are fighting a lot, but they {LOVE} each other…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...they {STAY} together.<br />
 <br />
@@ -1224,6 +1520,10 @@ A: Yes, they {STAY} together.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1096]]
 <strong>CONTEXT:</strong><br />Talking about the world cup: Q: Do you think England {ADVANCE} past Brasil in the next round?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1248,6 +1548,10 @@ A: They {MAKE} it.<br />
 <strong>CONTEXT:</strong><br />Q: Do you think Man U {ADVANCE} to the finals this year? A: They had a weak start, but they are playing well...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …they {MAKE} it.<br />
 <br />
@@ -1257,6 +1561,10 @@ A: They {MAKE} it.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1097]]
 <strong>CONTEXT:</strong><br />Q: What do you think {HAPPEN} in the American elections next year? A: Have you seen Trump play the crowds?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1281,6 +1589,10 @@ A: The Republicans {WIN}.<br />
 <strong>CONTEXT:</strong><br />Q: What do you think {HAPPEN} in the American elections next year? A: The Democrats have a strong field, but you never know... with the Republican base…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …the Republicans {WIN}.<br />
 <br />
@@ -1290,6 +1602,10 @@ A: The Republicans {WIN}.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1098]]
 <strong>CONTEXT:</strong><br />Q: How long do you have on your contract? A: I checked yesterday…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1314,6 +1630,10 @@ A: It {EXPIRE} in a year.<br />
 <strong>CONTEXT:</strong><br />Q: How long do you have on your contract? A: I am not sure…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …it {EXPIRE} in a year.<br />
 <br />
@@ -1323,6 +1643,10 @@ A: It {EXPIRE} in a year.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1099]]
 <strong>CONTEXT:</strong><br />Q: Are you going to stay in the UK? A: I love it here…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% decided<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1347,6 +1671,10 @@ A: It {EXPIRE} in a year.<br />
 <strong>CONTEXT:</strong><br />Q: Are you going to stay in the UK? A: My visa {EXPIRE} in two years. After that...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% decided<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...I {APPLY} for residency.<br />
 <br />
@@ -1356,6 +1684,10 @@ A: It {EXPIRE} in a year.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1100]]
 <strong>CONTEXT:</strong><br />A to B: Don't buy Adidas. I had some...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1380,6 +1712,10 @@ A: It {EXPIRE} in a year.<br />
 <strong>CONTEXT:</strong><br />A to B: Be careful buying that old Ford...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …the engine {WEAR OUT} in a couple of years.<br />
 <br />
@@ -1389,6 +1725,10 @@ A: It {EXPIRE} in a year.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1101]]
 <strong>CONTEXT:</strong><br />A to B: I advise that you purchase renewables...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1413,6 +1753,10 @@ A: It {EXPIRE} in a year.<br />
 <strong>CONTEXT:</strong><br />A to B: Be careful purchasing oil stocks now...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …renewable energy {BE} cheaper in a couple of years.<br />
 <br />
@@ -1422,6 +1766,10 @@ A: It {EXPIRE} in a year.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1102]]
 <strong>CONTEXT:</strong><br />A to B: You should invest in gold. In the next couple of years...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1446,6 +1794,10 @@ A: It {EXPIRE} in a year.<br />
 <strong>CONTEXT:</strong><br />A to B: Be cautious investing in crypto currencies. In the next couple of years…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...the market {CRASH}.<br />
 <br />
@@ -1455,6 +1807,10 @@ A: It {EXPIRE} in a year.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1103]]
 <strong>CONTEXT:</strong><br />Q: How much longer you have on your degree?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1479,6 +1835,10 @@ A: I {GRADUATE} in two years.<br />
 <strong>CONTEXT:</strong><br />Q: How much longer you have on your degree? A: I need to check how many credits I have…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...I {GRADUATE} in two years.<br />
 <br />
@@ -1488,6 +1848,10 @@ A: I {GRADUATE} in two years.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1104]]
 <strong>CONTEXT:</strong><br />Q: Are you selling you car? A: I cannot wait 5 years for the least to expire...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1512,6 +1876,10 @@ A: I {GRADUATE} in two years.<br />
 <strong>CONTEXT:</strong><br />Q: Are you selling you house? A: We are not sure. The market is shakey right now. In five years...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...it {BE} more valuable.<br />
 <br />
@@ -1521,6 +1889,10 @@ A: I {GRADUATE} in two years.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1105]]
 <strong>CONTEXT:</strong><br />Q: What do you expect the sea levels to do in the next five years? A: I mean…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1545,6 +1917,10 @@ A: They {RISE}.<br />
 <strong>CONTEXT:</strong><br />Q: What do you expect the sea levels to do in the next five years? A: The science is unclear, right?<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...they {RISE}.<br />
 <br />
@@ -1554,6 +1930,10 @@ A: They {RISE}.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1106]]
 <strong>CONTEXT:</strong><br />There is no excuse not to invest in a retirement savings plan. In five years…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1578,6 +1958,10 @@ A: They {RISE}.<br />
 <strong>CONTEXT:</strong><br />You should put money into a retirement savings plan. Interest rates are shaky now, but in five years…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …it {BE} worth quite a bit more.<br />
 <br />
@@ -1587,6 +1971,10 @@ A: They {RISE}.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1107]]
 <strong>CONTEXT:</strong><br />Q: Do you have have a five-year-plan? A: Yes, in five years…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% decided<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1611,6 +1999,10 @@ A: They {RISE}.<br />
 <strong>CONTEXT:</strong><br />Q: Do you have have a five-year-plan? A: I really don't know what I want to do. I love my job, but... <br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% decided<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...I {MOVE} to the country.<br />
 <br />
@@ -1620,6 +2012,10 @@ A: They {RISE}.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1108]]
 <strong>CONTEXT:</strong><br />Father to son: I have just checked...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1644,6 +2040,10 @@ Your bond {MATURE} in five years.<br />
 <strong>CONTEXT:</strong><br />Father to son: I need to check when exactly, but…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …your bond {MATURE} in five years.<br />
 <br />
@@ -1653,6 +2053,10 @@ Your bond {MATURE} in five years.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1109]]
 <strong>CONTEXT:</strong><br />Q: Are you saving any money? A: Yes, I save £100 every month. In ten years...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1677,6 +2081,10 @@ Your bond {MATURE} in five years.<br />
 <strong>CONTEXT:</strong><br />Q: Are you saving every month? A: Yes, I put away £100 every paycheque. In 10 years...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...it {BE} worth as much as £30,000.<br />
 <br />
@@ -1686,6 +2094,10 @@ Your bond {MATURE} in five years.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1110]]
 <strong>CONTEXT:</strong><br />Board director: How long will it take to build the new tower?<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1710,6 +2122,10 @@ Project manager: It {TAKE} ten years.<br />
 <strong>CONTEXT:</strong><br />CEO: How long will it take to build the resort? Project manager: It depends on the supply chain…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …it {TAKE} as much as ten years.<br />
 <br />
@@ -1719,6 +2135,10 @@ Project manager: It {TAKE} ten years.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1111]]
 <strong>CONTEXT:</strong><br />Q: Will you stay with Deutsche Bank for another ten years? A: Yes. By then…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1743,6 +2163,10 @@ Project manager: It {TAKE} ten years.<br />
 <strong>CONTEXT:</strong><br />Q: Will you {STAY} at your firm for good? A: I {THINK} so. In ten years...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...my stock options {BE} worth enough to retire.<br />
 <br />
@@ -1752,6 +2176,10 @@ Project manager: It {TAKE} ten years.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1112]]
 <strong>CONTEXT:</strong><br />Grandmother: Have you thought about working for your grandfather at the factory after you graduate from college? Young teen: No...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% decided<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1776,6 +2204,10 @@ Young teen: I {TRAIN} as a firefighter.<br />
 <strong>CONTEXT:</strong><br />Mother: What do you want to do after college? Young teen: Why do you always ask, mom! I don't know...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% decided<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 ...I {JOIN} the army.<br />
 <br />
@@ -1785,6 +2217,10 @@ Young teen: I {TRAIN} as a firefighter.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1113]]
 <strong>CONTEXT:</strong><br />Q: How long until you pay your mortgage? A: Jane said yesterday it {BE} eight years, but…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1809,6 +2245,10 @@ A: The payment schedule {FINISH} in ten years.<br />
 <strong>CONTEXT:</strong><br />Q: How long until you pay off your mortgage? A: I don't know. My wife manages the payment schedule…<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …it {FINISH} in ten years.<br />
 <br />
@@ -1818,6 +2258,10 @@ A: The payment schedule {FINISH} in ten years.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1114]]
 <strong>CONTEXT:</strong><br />You better put some ice on your back. It looks bad...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1842,6 +2286,10 @@ A: The payment schedule {FINISH} in ten years.<br />
 <strong>CONTEXT:</strong><br />A to B: Do you need anti-inflamatories for you wrist?<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+60% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …they {HELP} it heal faster.<br />
 <br />
@@ -1851,6 +2299,10 @@ A: The payment schedule {FINISH} in ten years.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1115]]
 <strong>CONTEXT:</strong><br />A: I have a headache. B: These pills are amazing. Take some...<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1875,6 +2327,10 @@ A: The payment schedule {FINISH} in ten years.<br />
 <strong>CONTEXT:</strong><br />A: I have a stomach ache. B: Have you tried ginger tea? I have been drinking it lately...<br />
 <br />
 <br />
+<strong>Certainty information:</strong><br />
+50% certain<br />
+<br />
+<br />
 <strong>Target sentence:</strong><br />
 …it {HELP}.<br />
 <br />
@@ -1884,6 +2340,10 @@ A: The payment schedule {FINISH} in ten years.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1116]]
 <strong>CONTEXT:</strong><br />Q: What {HAPPEN} if you eat this mushroom? A: Wow! That is an Amanita Pantherina…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+100% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />
@@ -1906,6 +2366,10 @@ A: You {DIE}.<br />
 [[Question:TE:SingleLine]]
 [[ID:uneek_1174]]
 <strong>CONTEXT:</strong><br />Q: What {HAPPEN} if you eat this berry? A: It looks sort of poisonous…<br />
+<br />
+<br />
+<strong>Certainty information:</strong><br />
+40% certain<br />
 <br />
 <br />
 <strong>Target sentence:</strong><br />

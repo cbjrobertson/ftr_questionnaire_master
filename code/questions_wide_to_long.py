@@ -52,6 +52,6 @@ def w2l(path):
     return long
 
 if __name__ == '__main__':
-    long = w2l(path='../ftr_questions/questionnaire_master.xlsx')
-    long.to_excel('../ftr_questions/questionnaire_long.xlsx',index=False)
+    long = w2l(path='../ftr_questionnaire/questionnaire_master.xlsx')
+    long.to_excel('../ftr_questionnaire/questionnaire_long.xlsx',index=False)
     
