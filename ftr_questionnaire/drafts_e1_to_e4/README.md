@@ -2,7 +2,7 @@
 
 This readme is designed to help interested researchers re-construct the methods presented in Robertson & Roberts (2020), and in Robertson, Roberts, Dunbar, & Majid (2020).
 
-These versions of the FTR questionnaire were used to gather data in four experiments, which we refer to here consecutively as numbers 1-4. These correspond to the experiment numbers given in Robertson & Roberts (2020). However, as experiment 1 is not included in Robertson, Roberts, Dunbar, & Majid (2020), the experiment numbers given there are off by one, i.e. "experiment one" in Robertson, Roberts, Dunbar, & Majid (2020) is referred to here as "experiment teo", and so on.
+These versions of the FTR questionnaire were used to gather data in four experiments, which we refer to here consecutively as numbers 1-4. These correspond to the experiment numbers given in Robertson & Roberts (2020). However, as experiment 1 is not included in Robertson, Roberts, Dunbar, & Majid (2020), the experiment numbers given there are off by one, i.e. "experiment one" in Robertson, Roberts, Dunbar, & Majid (2020) is referred to here as "experiment two", and so on.
 
 ## data subsetting
 
