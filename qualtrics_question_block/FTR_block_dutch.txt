@@ -1,0 +1,1916 @@
+[[AdvancedFormat]]
+[[Block: FTR_question_block_dutch]]
+[[Question:TE:SingleLine]]
+[[ID:uneek_2059]]
+<strong>CONTEXT:</strong><br />Q: Wil je een film zien vanavond? A: Sorry, ik kan niet…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {UIT ETEN GAAN} met Ellie.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2001]]
+<strong>CONTEXT:</strong><br />Q: Wat {DOEN} je vanavond?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ik {UIT ETEN GAAN} met John.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2117]]
+<strong>CONTEXT:</strong><br />Q: Wat {DOEN} je vanavond? A: Hmmm…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {UIT ETEN GAAN} met Christine.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2060]]
+<strong>CONTEXT:</strong><br />Q: Wat denk je over het voetbal vanavond?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Madrid {VERLIEZEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2002]]
+<strong>CONTEXT:</strong><br />Q: Wat denk je over de match van vanavond?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Manchester {VERLIEZEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2118]]
+<strong>CONTEXT:</strong><br />Q: Wat denk je over de match van vanavond? A: Het {ZIJN} moeilijk te zeggen…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Arsenal {VERLIEZEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2061]]
+<strong>CONTEXT:</strong><br />Q: Moet ik mijn zonnehoed meebrengen naar het strand? A: Ja...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {ZIJN} zeer warm deze middag.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2003]]
+<strong>CONTEXT:</strong><br />Q: Moet ik mijn paraplu meebrengen? A: Ja…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {STORMEN} vanmiddag.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2119]]
+<strong>CONTEXT:</strong><br />Q: Moet ik een extra warme jas meenemen? A: Dat is jouw beslissing...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... het {SNEEUWEN} vanmiddag.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2062]]
+<strong>CONTEXT:</strong><br />Sprekend tot een vriend die een oogje op Annie heeft: Kom naar de film vanavond...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Annie {ZIJN} daar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2004]]
+<strong>CONTEXT:</strong><br />Sprekend tot een vriend die een oogje op Claire heeft: Kom naar het feestje vanavond...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Claire {ZIJN} daar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2120]]
+<strong>CONTEXT:</strong><br />Sprekend tot een vriend die een oogje op John heeft: Kom naar het etentje vanavond...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… John {ZIJN} daar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2063]]
+<strong>CONTEXT:</strong><br />Q: Wanneer {ZIJN} het examen vanavond? A: Zoals al de hele week…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {ZIJN} om 19 uur.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2005]]
+<strong>CONTEXT:</strong><br />Q: Wanneer {ZIJN} het examen vanavond?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Het {ZIJN} om 19 uur.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2121]]
+<strong>CONTEXT:</strong><br />Q: Wanneer {ZIJN} het examen vanavond? A: Ik moet het nakijken, maar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... het {ZIJN} om 19 uur.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2064]]
+<strong>CONTEXT:</strong><br />Q: Wat {DOEN} je morgenavond? A: De nieuwe James Bond-film {ZIJN} op de affiche…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {KIJKEN} het met Mary.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2006]]
+<strong>CONTEXT:</strong><br />Q: Wat {DOEN} je morgenavond? A: De nieuwe Avengersfilm {ZIJN} op de affiche…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {KIJKEN} het met Mary.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2122]]
+<strong>CONTEXT:</strong><br />Q: Wat {DOEN} je morgen? A: Imagine Dragons {SPELEN} morgen. Ze zijn niet slecht, maar de tickets {ZIJN} duur...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {KIJKEN} ze met Tom.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2065]]
+<strong>CONTEXT:</strong><br />Het heeft geen zin om morgen te skiën...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… de sneeuwomstandighedem {ZIJN} slecht.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2007]]
+<strong>CONTEXT:</strong><br />Het is niet nodig om in het meer proberen te zwemmen...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het weer {ZIJN} koud vanavond.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2123]]
+<strong>CONTEXT:</strong><br />Ik heb wat twijfels over {PROBEREN} te zeilen morgen...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… de wind {ZIJN} te sterk.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2066]]
+<strong>CONTEXT:</strong><br />Q: Wat jouw vader {DOEN} als je hem morgen niet bezoekt, denk je?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Hij {BELLEN} me.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2008]]
+<strong>CONTEXT:</strong><br />Q: Wat jouw broer {DOEN} als je hem morgen niet bezoekt, denk je?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Hij {BELLEN} me.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2124]]
+<strong>CONTEXT:</strong><br />Q: Wat jouw zuster {DOEN} als je haar morgen niet bezoekt, denk je?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ze {BELLEN} me.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2067]]
+<strong>CONTEXT:</strong><br />Q: Denk je dat het examen morgen moeilijk {ZIJN}? A: Professor Green is gemakkelijk…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... we {SLAGEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2009]]
+<strong>CONTEXT:</strong><br />Q: Denk je dat het examen morgen moeilijk {ZIJN}?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: We {PASSEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2125]]
+<strong>CONTEXT:</strong><br />Q: Denk je dat het examen morgen moeilijk {ZIJN}?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: We hebben gestudeerd, maar je weet nooit met Professor Johnson…] ... we {SLAGEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2068]]
+<strong>CONTEXT:</strong><br />Q: Weet je wanneer de zon {OPKOMEN} morgen?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ze {OPKOMEN} om 6:17.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2010]]
+<strong>CONTEXT:</strong><br />Q: Weten je wanneer het zonsopgang {ZIJN}, morgen?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: De zon {OPKOMEN} om 6 uur.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2126]]
+<strong>CONTEXT:</strong><br />Q: Weet je wanneer de maan {OPKOMEN} morgenavond?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ze {OPKOMEN} om 17:00.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2069]]
+<strong>CONTEXT:</strong><br />Q: Wanneer komt je schoonmoeder aan? A: Verdraaid! Ze koopt zoals altijd teveel speelgoed voor de kinderen. Ik kan er niet tegen...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {ZEGGEN} deze keer nee.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2011]]
+<strong>CONTEXT:</strong><br />Q: Wanneer komt je moeder aan? A: Verdraaid! Ze koopt altijd te veel snoep voor de kinderen. Wanneer ze hier volgende week komt…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {ZEGGEN} nee.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2127]]
+<strong>CONTEXT:</strong><br />Q: Wanneer komt je vader aan? A: Verdraaid! Hij koopt altijd te veel junkfood voor de kinderen. Maar ze {HOUDEN} zoveel van hem… <br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {ZEGGEN} deze keer nee.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2070]]
+<strong>CONTEXT:</strong><br />Q: Weet jij wat het weer {ZIJN} volgende week? A: Een grote storm {AANKOMEN}…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Het {ZIJN} slecht.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2012]]
+<strong>CONTEXT:</strong><br />Q: Wat is de weersverwachting voor volgende week?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Het {REGENEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2128]]
+<strong>CONTEXT:</strong><br />Q: Weet je wat het weer {ZIJN} volgende week?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A:  Het {ZIJN} zonnig.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2071]]
+<strong>CONTEXT:</strong><br />A aan B: Neem een paraplu mee naar Duitsland volgende week...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {REGENEN} in Berlijn.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2013]]
+<strong>CONTEXT:</strong><br />A aan B: Breng zonnecrème mee dit weekend...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {ZIJN} zonnig!<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2129]]
+<strong>CONTEXT:</strong><br />A aan B: Ik zou zwemkleding meenemen dit weekend...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… de temperatuur {BEREIKEN} 45 graden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2072]]
+<strong>CONTEXT:</strong><br />A aan B: We moeten absoluut het spijsverteringsstelsel bestuderen...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… er {ZIJN} een vraag over.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2014]]
+<strong>CONTEXT:</strong><br />A aan B: We moeten hoofdstuk drie bestuderen voor het examen van volgende week...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… er {ZIJN} een vraag over.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2130]]
+<strong>CONTEXT:</strong><br />A aan B: Denk je niet dat we de extra leerstof moeten bestuderen?...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… er {ZIJN} een vraag over.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2073]]
+<strong>CONTEXT:</strong><br />Christine {ZEGGEN} gisteren dat mijn broer {VERTREKKEN) morgen, maar...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… zijn vlucht {VERTREKKEN} volgende week.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2015]]
+<strong>CONTEXT:</strong><br />Mijn broers...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… vlucht {VERTREKKEN} over een week.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2131]]
+<strong>CONTEXT:</strong><br />A ann B: John {ZEGGEN} gisteren dat Mary over twee weken {VERTREKKEN}, maar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… haar vlucht {VERTREKKEN} volgende week.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2074]]
+<strong>CONTEXT:</strong><br />De oom van Jen {VERSTUREN} hem volgende maand wat geld. Ze houdt van skiën. Wanneer ze het ontvangt…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… ze een nieuw paar ski's {KOPEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2016]]
+<strong>CONTEXT:</strong><br />De vader van Chris {VERSTUREN} hem volgende maand wat geld. Wanneer hij het {KRIJGEN}…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... {KOPEN} hij een geschenk voor Amelie.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2132]]
+<strong>CONTEXT:</strong><br />De broer van Chris {STUREN} hem wat geld volgende maand. Met hem weet je het nooit. Wanneer hij het ontvangt…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... {UITGEVEN} hij het in het café.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2075]]
+<strong>CONTEXT:</strong><br />A aan B: Investeer niet in grondstoffen. De markt is erg wankel...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Hij {CRASHEN} binnen een maand.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2017]]
+<strong>CONTEXT:</strong><br />A aan B: Beleg niet in derivaten. De markt is frauduleus...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Hij {CRASHEN} binnen een maand.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2133]]
+<strong>CONTEXT:</strong><br />A aan B: Investeer niet in Latijns-Amerika. De omstandigheden zijn niet stabiel…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Brazilië {CRASHEN} binnen een maand.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2076]]
+<strong>CONTEXT:</strong><br />Moeder aan dochter: Plaats je zakgeld op een spaarrekening. Volgende maand…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Het {ZIJN} veel meer waard.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2018]]
+<strong>CONTEXT:</strong><br />Vader aan zoon: Start nu met investeren. In zelfs een maand...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… {ZIJN} je geld meer waard.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2134]]
+<strong>CONTEXT:</strong><br />Vader aan zoon: Werp dat actiefiguurtje niet weg. We {GAAN} volgende maand naar de stripbeurs…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {ZIJN} daar iets waard.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2077]]
+<strong>CONTEXT:</strong><br />Q: Wat is je opinie over olie-futures volgende maand?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ze {STIJGEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2019]]
+<strong>CONTEXT:</strong><br />Q: Hoe denkt je dat de grondstoffenmarkten {HANDELEN} volgende maand?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ze {STIJGEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2135]]
+<strong>CONTEXT:</strong><br />Q: Hoe verwacht je dat de aandelenmarkten {ZICH GEDRAGEN} volgende maand? A: Het is niet duidelijk…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… ze {STIJGEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2078]]
+<strong>CONTEXT:</strong><br />In juni: Q: Wanneer vliegen jij en Jen naar Frankrijk? A: Ze zei het {ZIJN} de 17e, maar ik checkte de planning...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… we {VERTREKKEN} op de 15e.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2020]]
+<strong>CONTEXT:</strong><br />In november: Q: Wanneer vlieg je naar Mexico?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Mijn vlucht {VERTREKKEN} op 15 december!<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2136]]
+<strong>CONTEXT:</strong><br />Het is nu februari: Q: Wanneer vlieg je naar Spanje? A: Ik moet het ticket controleren...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... mijn vlucht {VERTREKKEN} op 15 maart.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2079]]
+<strong>CONTEXT:</strong><br />Q: Gaat u deze zomer op vakantie? A: Ja, binnen enkele maanden. Mijn vriendje wil niet, maar...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... we {REIZEN} naar Georgië.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2021]]
+<strong>CONTEXT:</strong><br />Q: Gaat u deze zomer op vakantie? A: Ja. Mijn jaarlijkse evaluatie is over twee maanden. Daarna…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… {REIZEN} ik naar Thailand.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2137]]
+<strong>CONTEXT:</strong><br />Q: Gaat u deze zomer op vakantie? A: Ik weet het niet. Mijn jaarlijkse evaluatie is over twee maanden. Daarna…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… {REIZEN} ik naar Italië.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2080]]
+<strong>CONTEXT:</strong><br />Verkoper aan klant: Ik zou een aantal maanden wachten met kopen. De voorraad voor volgend jaar komt er binnenkort aan…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... de prijs voor deze {DALEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2022]]
+<strong>CONTEXT:</strong><br />Verkoper aan klant: Ik zou binnen enkele maanden terug komen. De voorraad voor volgend jaar komt er binnenkort aan…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... de prijs voor deze {DALEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2138]]
+<strong>CONTEXT:</strong><br />Verkoper aan klant: Ik zou over enkele maanden proberen terug te komen. De mensen kopen er niet zoveel...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... de prijs {DALEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2081]]
+<strong>CONTEXT:</strong><br />Dokter aan panel: U kunt alles vergeten wat mijn slecht geïnformeerde collega u daarnet vertelde. Met de huidige infectieratio's…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… {DODEN} Mexicaans griep nog 5.000 mensen in de volgende twee maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2023]]
+<strong>CONTEXT:</strong><br />Dokter aan panel: Met de huidige infectieratio's…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... {DODEN} ebola nog 10.000 mensen in de volgende twee maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2139]]
+<strong>CONTEXT:</strong><br />Dokter aan panel: We hebben meer onderzoek naar de transmissevectoren nodig…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het H1N1-virus {DODEN} nog 10.000 mensen in de volgende twee maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2082]]
+<strong>CONTEXT:</strong><br />Leerkracht aan ouder: Peter heeft enkel wat tijd nodig om zich aan te passen. In enkele maanden… <br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… hij {VERBETEREN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2024]]
+<strong>CONTEXT:</strong><br />Leerkracht aan ouder: Het kan enige tijd duren voor kinderen zich  aan een nieuwe school aanpassen. In een aantal maanden…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Johnny {VERBETEREN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2140]]
+<strong>CONTEXT:</strong><br />Leerkracht aan ouder: Ik maak me zorgen om Ellie, maar ik denk dat ze gewoon wat tijd nodig heeft om zich aan te passen. In een paar maanden…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… ze {VERBETEREN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2083]]
+<strong>CONTEXT:</strong><br />Q: Ben je benieuwd naar het concert van Billie Eilish volgende week? A: Wat? Ik heb het online gecontroleerd...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+ … ze {SPELEN} over twee maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2025]]
+<strong>CONTEXT:</strong><br />Q: Wanneer is de show van Radiohead?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ze {SPELEN} binnen enkele maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2141]]
+<strong>CONTEXT:</strong><br />Q: Wanneer is het concert van Lady Gaga?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ze {SPELEN} binnen enkele maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2084]]
+<strong>CONTEXT:</strong><br />Jongen: Mijn verjaardag is over drie maanden… kom je naar mijn feestje?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+Meisje: Ik {ZIJN} er.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2026]]
+<strong>CONTEXT:</strong><br />Meisje: Mijn verjaardag is over drie maanden… kom je naar mijn feestje?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+Jongen: Ik {ZIJN} er.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2142]]
+<strong>CONTEXT:</strong><br />Jongen: Mijn verjaardag is over drie maanden… kom je naar mijn feestje? Meisje: Ik moet het aan mijn ouders vragen…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {KOMEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2085]]
+<strong>CONTEXT:</strong><br />Dokter aan patiënt: Dit is gewoon stress. Ik zie het voortdurend. Probeer om goed te slapen en te bewegen. In enkele maanden…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… u {ZICH VOELEN} beter.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2027]]
+<strong>CONTEXT:</strong><br />Dokter aan patiënt: Probeer om goed te slapen en te bewegen. In enkele maanden…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… u {ZICH VOELEN} beter.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2143]]
+<strong>CONTEXT:</strong><br />Dokter aan patiënt: Deze resultaten zijn zorgwekkend, maar kunnen veroorzaakt worden door stress. Probeer om goed te slapen en te bewegen. In enkele maanden…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… u {ZICH VOELEN} beter.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2086]]
+<strong>CONTEXT:</strong><br />A aan B: De olieprijs stijgt altijd in de zomer. Laat ons nu investeren...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… we {MAKEN} winst binnen enkele maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2028]]
+<strong>CONTEXT:</strong><br />A aan B: De goudprijs stijgt altijd in de herfst. Laat ons nu investeren...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… we {MAKEN} winst binnen enkele maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2144]]
+<strong>CONTEXT:</strong><br />A aan B: De goudprijs stijgt gewoonlijk wanneer de markten zenuwachtig zijn. Maak je geen zorgen...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… we {BEGINNEN} over enkele maanden geld te verdienen.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2087]]
+<strong>CONTEXT:</strong><br />Weerpresentator: Er is in jaren niet zo een lange reeks van hogedruksystemen geweest...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+...we {ZIEN} zonnig weer deze zomer.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2029]]
+<strong>CONTEXT:</strong><br />Weerpresentator: Goed nieuws voor alle skiërs onder jullie...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… we {ZIEN} veel sneeuw in de komende maanden<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2145]]
+<strong>CONTEXT:</strong><br />Weerpresentator: De algemene vooruitzichten voor de komende maanden zijn vrij onstabiel, maar geef de hoop niet op...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… we {ZIEN} zonnig weer deze zomer.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2088]]
+<strong>CONTEXT:</strong><br />Supervisor aan student: Zo u doet volgende maand uw verdediging?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+Student: Nee, mijn mondelinge verdediging {ZIJN} over drie maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2030]]
+<strong>CONTEXT:</strong><br />Q: Wanneer verdedigt u uw thesis?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Mijn mondelinge verdediging {ZIJN} over drie maanden!<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2146]]
+<strong>CONTEXT:</strong><br />Student aan supervisor: Zo, wanneer doe ik mijn verdediging? Supervisor: Laat me het controleren…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… uw mondelinge verdediging {ZIJN} over drie maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2089]]
+<strong>CONTEXT:</strong><br />In de lente, in een gesprek over de plannen van een vriend: Ik niet weet waarom je er anders over denkt! Ze vertelde me gisteren dat ze haar ticket heeft gekocht...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… ze {REIZEN} in Zuid-Oost-Azië deze herfst.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2031]]
+<strong>CONTEXT:</strong><br />In december, in een gesprek over de plannen van een vriend: In de zomer…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... hij {REIZEN} in Marokko.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2147]]
+<strong>CONTEXT:</strong><br />In oktober, in een gesprek over de plannen van een vriend: Ik denk niet dat hij hier gelukkig is…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... hij {REIZEN} in Mexico in de lente.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2090]]
+<strong>CONTEXT:</strong><br />In een gesprek over het weer voor volgende winter (het is nu juni): Er {ZIJN} een koude stroming van de Noordpool dit jaar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {SNEEUWEN} veel deze winter.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2032]]
+<strong>CONTEXT:</strong><br />In een gesprek over het weer in de toekomst (het is nu december): Er {ZIJN} een warme stroming uit de tropen…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {MAKEN} deze zomer heet en regenachtig.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2148]]
+<strong>CONTEXT:</strong><br />In een gesprek over het weer voor volgende winter (het is nu juni): Er {ZIJN} een warme stroming uit de tropen…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {MAKEN} deze winter warm en nat.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2091]]
+<strong>CONTEXT:</strong><br />In een gesprek over de komende verkiezingen in de lente (het is nu oktober): A: Verspil geen stem aan de socialisten…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… ze {VERLIEZEN} in April.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2033]]
+<strong>CONTEXT:</strong><br />In een gesprek over de komende verkiezingen (het is nu juli): Verspil geen stem aan de liberale partij…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… ze {VERLIEZEN} in januari.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2149]]
+<strong>CONTEXT:</strong><br />In een gesprek over de komende verkiezingen (het is nu januari) Q: Wat denk je dat er zal gebeuren met de conservatieven?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ze {VERLIEZEN} deze zomer.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2092]]
+<strong>CONTEXT:</strong><br />A aan B: Verlies geen tijd met investeringen in China. Er is een bubbel...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Het {CRASHEN} binnen zes maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2034]]
+<strong>CONTEXT:</strong><br />A aan B: Verlies geen tijd met investeringen in de tech-industrie...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Silicon Valley {CRASHEN} binnen zes maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2150]]
+<strong>CONTEXT:</strong><br />A aan B: Ben je zeker over investeren in Afrika? De volgende zes maanden {LIJKEN} niet stabiel...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Het {CRASHEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2093]]
+<strong>CONTEXT:</strong><br />Q: Ben je zeker over de huur?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ze {AFLOPEN} over zes maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2035]]
+<strong>CONTEXT:</strong><br />Q: Wanneer verhuis je?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Onze huur {EINDIGEN} over zes maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2151]]
+<strong>CONTEXT:</strong><br />Q: Wanneer verhuis je? A: Ik moet de documenten controleren…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… onze huur {EINDIGEN} over zes maanden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2094]]
+<strong>CONTEXT:</strong><br />Q: Zal je volgend jaar in Londen wonen?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ja. Ik {VERHUIZEN} naar Camden.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2036]]
+<strong>CONTEXT:</strong><br />Q: Zal je hier volgend jaar {BLIJVEN}?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Nee, ik {VERHUIZEN} naar San Francisco.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2152]]
+<strong>CONTEXT:</strong><br />Q: Zal je volgend jaar hier wonen? A: Ik weet het niet...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {VERHUIZEN} naar L.A..<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2095]]
+<strong>CONTEXT:</strong><br />Q: Denk je dat Amy en John nog samen {ZIJN} over een jaar? A:  Ik hoorde dat hij een aanzoek deed...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ze {BLIJVEN} samen.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2037]]
+<strong>CONTEXT:</strong><br />Q: Denk je dat Hamish en Natalie nog steeds samen {ZIJN} over een jaar?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ja, ze {BLIJVEN} samen.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2153]]
+<strong>CONTEXT:</strong><br />Q: Denk je dat Delia en Chris nog samen {ZIJN} over een jaar? A: Ik weet het niet. Ze vechten vaak, maar ze houden van elkaar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... ze {BLIJVEN} samen.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2096]]
+<strong>CONTEXT:</strong><br />In een gesprek over de wereldbeker: Q: Denk je dat Engeland ten koste van Brazilië naar de volgende ronde {DOORGAAN}?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ze {VERLIEZEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2038]]
+<strong>CONTEXT:</strong><br />In een gesprek over de wereldbeker: Q: Denk je dat Nederland dit jaar {DOORGAAN} naar de finale?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Zij {SLAGEN} erin.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2154]]
+<strong>CONTEXT:</strong><br />Q: Denk je dat Manchester United dit jaar {DOORGAAN} naar de finale? A: Ze hadden een zwakke start, maar ze zijn goed aan het spelen...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+ ze {SLAGEN} erin.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2097]]
+<strong>CONTEXT:</strong><br />Q: Wat denk je dat er {GEBEUREN} in de Amerikaanse verkiezingen volgend jaar? A: Heb je Trump het publiek zien bespelen?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… De Republikeinen {WINNEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2039]]
+<strong>CONTEXT:</strong><br />Q: Wat denk dat er {GEBEUREN} in de Amerikaanse verkiezingen volgend jaar?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: De Republikeinen {WINNEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2155]]
+<strong>CONTEXT:</strong><br />Q: Wat denk je dat er {GEBEUREN} in de Amerikaanse verkiezingen volgend jaar? A: De Democraten hebben sterke kandidaten, maar je weet nooit... met de Republikeinse basis...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… de Republikeinen {WINNEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2098]]
+<strong>CONTEXT:</strong><br />Q: Hoelang duurt je contract nog? A: Ik checkte gisteren…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {AFLOPEN} over een jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2040]]
+<strong>CONTEXT:</strong><br />Q: Hoelang duurt je contract nog?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Het {VERVALLEN} over een jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2156]]
+<strong>CONTEXT:</strong><br />Q: Hoelang duurt je contract nog? A: Ik ben het niet zeker…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {VERVALLEN} over een jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2099]]
+<strong>CONTEXT:</strong><br />Q: Ga je in Nederland blijven? A: Ik ben hier graag…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {AANVRAGEN} een verblijfsvergunning over twee jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2041]]
+<strong>CONTEXT:</strong><br />Q: Ga je in Nederland blijven? A: Ja, wanneer mijn documenten arriveren over twee jaar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {AANVRAGEN} een verblijfsvergunning.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2157]]
+<strong>CONTEXT:</strong><br />Q: Ga je in Nederland blijven? A: Mijn visa {VERVALLEN} over twee jaar. Daarna...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {VRAGEN} een verblijfsvergunning.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2100]]
+<strong>CONTEXT:</strong><br />A aan B: Koop geen Adidas. Ik heb ze gehad...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... ze {VERSLIJTEN} binnen enkele jaren.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2042]]
+<strong>CONTEXT:</strong><br />Koop geen schoenen...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... ze {VERSLIJTEN} binnen enkele jaren.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2158]]
+<strong>CONTEXT:</strong><br />A ann B: Wees voorzichtig bij de aankoop van die oude Ford...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… de motor {VERSLIJTEN} binnen enkele jaren.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2101]]
+<strong>CONTEXT:</strong><br />A aan B: Ik adviseer je aandelen duurzame energie te kopen...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… hernieuwbare energie {VERVANGEN} olie in de komende twee jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2043]]
+<strong>CONTEXT:</strong><br />Koop geen olieaandelen...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… hernieuwbare energie {ZIJN} goedkoper binnen enkele jaren.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2159]]
+<strong>CONTEXT:</strong><br />A ann B: Wees nu voorzichtig met het kopen van olieaandelen...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… hernieuwbare energie {ZIJN} goedkoper binnen enkele jaren.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2102]]
+<strong>CONTEXT:</strong><br />A aan B: Je moet investeren in goud. In de komende jaren...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... de aandelenmarkt {DALEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2044]]
+<strong>CONTEXT:</strong><br />U moet uw geld niet in vastgoed beleggen. In de komende jaren...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... de markt {CRASHEN}<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2160]]
+<strong>CONTEXT:</strong><br />A ann B: Wees voorzichtig met het investeren in cryptovaluta. In de komende jaren…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... de markt {CRASHEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2103]]
+<strong>CONTEXT:</strong><br />Hoe lang moet je nog voor je je diploma hebt?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ik {AFSTUDEREN} over twee jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2045]]
+<strong>CONTEXT:</strong><br />Q: Hoe lang moet je nog voor je je diploma hebt?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ik {AFSTUDEREN} over twee jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2161]]
+<strong>CONTEXT:</strong><br />Q: Hoe lang moet je nog voor je je diploma hebt? A: Ik moet nakijken hoeveel studiepunten ik heb…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {AFSTUDEREN} over twee jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2104]]
+<strong>CONTEXT:</strong><br />Q: Verkoop je jouw wagen? A: Ik kan niet vijf jaar wachten tot de lease afloopt…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... de auto {ZIJN} dan minder waard.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2046]]
+<strong>CONTEXT:</strong><br />Q: Verkoop je jouw huis? A: Misschien over 5 jaar...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… dan, het {ZIJN} waardevoller.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2162]]
+<strong>CONTEXT:</strong><br />Q: Verkoop je jouw huis? A: We zijn niet zeker. De markt is wankel op dit moment. Over vijf jaar...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... het {ZIJN} waardevoller.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2105]]
+<strong>CONTEXT:</strong><br />Q: Wat verwacht je dat het zeeniveau zal doen in de volgende vijf jaar? A: Ik bedoel…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... ze {STIJGEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2047]]
+<strong>CONTEXT:</strong><br />Q: Wat verwacht je dat het zeeniveau {DOEN} in de volgende vijf jaar?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Ze {STIJGEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2163]]
+<strong>CONTEXT:</strong><br />Q: Wat verwacht je dat het zeeniveau zal doen in de volgende vijf jaar? A: De wetenschap is niet duidelijk, niet?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… ze {STIJGEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2106]]
+<strong>CONTEXT:</strong><br />Er is geen excuus om niet te investeren in een pensioenspaarplan. Over vijf jaar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… uw geld {ZIJN} veel meer waard.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2048]]
+<strong>CONTEXT:</strong><br />U moet geld beleggen in een pensioenspaarplan. In slechts vijf jaar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Het {ZIJN} veel meer waard.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2164]]
+<strong>CONTEXT:</strong><br />U moet geld beleggen in een pensioenspaarplan. Interesttarieven zijn niet stabiel op dit moment, maar binnen vijf jaar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {ZIJN} heel wat meer.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2107]]
+<strong>CONTEXT:</strong><br />Q: Beschik je over een vijfjarenplan? A: Ja, over vijf jaar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {WORDEN} partner.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2049]]
+<strong>CONTEXT:</strong><br />Q: Beschik je over een vijfjarenplan? A: Binnen vijf jaar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {WORDEN} partner in mijn bedrijf.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2165]]
+<strong>CONTEXT:</strong><br />Q: Beschik je over een vijfjarenplan? A: Ik weet echt niet wat ik wil doen. I hou van mijn baan, maar...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {VERHUIZEN} naar het land.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2108]]
+<strong>CONTEXT:</strong><br />Vader aan zoon: Ik heb het juist gecontroleerd...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… je obligatie {VERVALLEN} in vijf jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2050]]
+<strong>CONTEXT:</strong><br />Vader aan zoon:<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+Je obligatie {VERVALLEN} in vijf jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2166]]
+<strong>CONTEXT:</strong><br />Vader aan zoon: Ik moet controleren wanneer precies, maar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… je obligatie {VERVALLEN} in vijf jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2109]]
+<strong>CONTEXT:</strong><br />Q: Spaar je iets? A: Ja, ik spaar elke maand €100. In tien jaar...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {ZIJN} waard.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2051]]
+<strong>CONTEXT:</strong><br />Q: Spaar voor uw pensioen? A: Ja, ik {SPAREN} elke maand €100. In tien jaar...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… heit {ZIJN} waard € 40,000.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2167]]
+<strong>CONTEXT:</strong><br />Q: Spaar je elke maand? A: Ja, ik spaar € 100 van elk salaris. In 10 jaar...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... het {ZIJN} € 30,000 waard.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2110]]
+<strong>CONTEXT:</strong><br />Directeur: Hoe lang zal het duren om de nieuwe toren te bouwen?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+Projectmanager: Het {DUREN} tenminste tien jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2052]]
+<strong>CONTEXT:</strong><br />Directeur: Hoe lang zal het duren om de nieuwe brug te bouwen?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+Projectmanager: Het {DUREN} tien jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2168]]
+<strong>CONTEXT:</strong><br />CEO: Hoe lang zal het duren om het nieuwe vakantiedorp te bouwen? Projectmanager: Het hangt af van de supply chain…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {DUREN} tot 10 jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2111]]
+<strong>CONTEXT:</strong><br />Q: Zal je blijf met Deutsche Bank voor nog tien jaar? A: Ja. Dan...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... mijn aandelenopties {ZIJN} voldoende waard om op pensioen te gaan.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2053]]
+<strong>CONTEXT:</strong><br />Q: Ga je bij jouw bedrijf blijf? A: Ja, in tien jaar...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... mijn aandelenopties {ZIJN} voldoende waard om op pensioen te gaan.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2169]]
+<strong>CONTEXT:</strong><br />Q: Ga je voorgoed bij jouw bedrijf {BLIJVEN}? A: IK {DENKEN} het. Ja, in tien jaar...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... mijn aandelenopties {ZIJN} voldoende waard om op pensioen te gaan.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2112]]
+<strong>CONTEXT:</strong><br />Grootmoeder: Heb je overwogen om voor je grootvader in de fabriek te werken nadat je studeert af van de universiteit? Jonge tiener: Nee...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {INSCHRIJVEN} in de politieschool.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2054]]
+<strong>CONTEXT:</strong><br />Vader: Wat doe je nadat je studeer af van de universiteit?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+Jonge tiener: Ik opeiding {VOLGEN} voor brandweerman.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2170]]
+<strong>CONTEXT:</strong><br />Moeder: Wat wil je doet na de universiteit? Jonge tiener: Waarom vraagt dit altijd, mama! Ik weet het niet...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Ik {VERVOEGEN} het leger.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2113]]
+<strong>CONTEXT:</strong><br />Q: Hoe lang nog om betaal af uw hypotheek? A: Jane zegde gisteren het {ZIJN} acht jaar, maar…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… het {EINDIGEN} in tien.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2055]]
+<strong>CONTEXT:</strong><br />Q: Hoe lang nog om betaal af uw hypotheek?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Het afbetalingsplan {EINDIGEN} in tien jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2171]]
+<strong>CONTEXT:</strong><br />Q: Hoe lang nog om betaal af uw hypotheek? A: Ik weet het niet. Mijn vrouw beheert het afbetalingsplan…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Het {EINDIGEN} in tien jaar.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2114]]
+<strong>CONTEXT:</strong><br />Je plaats beter ijs op je rug. Het ziet er slecht uit...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Het {OPZWELLEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2056]]
+<strong>CONTEXT:</strong><br />A aan B: Je plaats beter ijs op die verstuikte enkel..<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Het {OPZWELLEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2172]]
+<strong>CONTEXT:</strong><br />A aan B: Heb je nodig anti-ontstekingsmiddelen voor uw pols?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… ze {HELPEN} om sneller te genezen.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2115]]
+<strong>CONTEXT:</strong><br />A: Ik heb hoofdpijn B: Deze pillen zijn fantastisch. Neem er enkele...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… ze {HELPEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2057]]
+<strong>CONTEXT:</strong><br />A: Ik heb hoofdpijn B: Neem dit geneesmiddel…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+... Het {MAKEN} dat u zich beter voelt.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2173]]
+<strong>CONTEXT:</strong><br />A: Ik heb maagpijn B: Heb je gemberthee geprobeerd? Ik heb het de laatste tijd gedronken...<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Het {HELPEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2116]]
+<strong>CONTEXT:</strong><br />Q: Wat {GEBEUREN} als je deze paddenstoel eet? A: Wow! Dat is een Amanita Pantherina…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… je {WORDEN} ziek.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2058]]
+<strong>CONTEXT:</strong><br />Q: Wat {GEBEUREN} als je deze paddenstoel eet?<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+A: Je {STERVEN}.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
+[[Question:TE:SingleLine]]
+[[ID:uneek_2174]]
+<strong>CONTEXT:</strong><br />Q: Wat {GEBEUREN} als je deze bes eet? A: Ze lijkt giftig…<br />
+<br />
+<br />
+<strong>Doelzin: </strong><br />
+… Ze {MAKEN} uw ziek.<br />
+<br />
+<br />
+<strong>Geef hieronder je reactie:</strong>
+
