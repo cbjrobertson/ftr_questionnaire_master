@@ -114,6 +114,6 @@ old/
 writing_process/
 ftr_questionnaire/example.xlsx
 ftr_questionnaire/long_example.xlsx
-code/mark_questions.xlsx
+code/mark_questions.py
 code/questions_check.py
 demography_text_maps.xlsx
