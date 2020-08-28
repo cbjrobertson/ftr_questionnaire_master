@@ -1,6 +1,6 @@
 # data subsetting by publication
 
-This readme is designed to help interested researchers (and reviewers) re-construct the methods presented in Robertson & Roberts (2020). _Not when but if: Modality and future time reference in English, Dutch, and German_ PsyArxiv. DOI: [https://doi.org/10.31234/osf.io/gdr8e](https://doi.org/10.31234/osf.io/gdr8e); and  Robertson, Roberts, Dunbar, & Majid (in prep.). _Future time reference and temporal discounting: experimental evidence suggests the importance of probability.
+This readme is designed to help interested researchers (and reviewers) re-construct the methods presented in Robertson & Roberts (2020). _Not when but if: Modality and future time reference in English, Dutch, and German_ PsyArxiv. DOI: [https://doi.org/10.31234/osf.io/gdr8e](https://doi.org/10.31234/osf.io/gdr8e); and  Robertson, Roberts, Dunbar, & Majid (in prep.). _Future time reference and temporal discounting: experimental evidence suggests the importance of probability_.
 
 # Not when but if
 ## Study 1
